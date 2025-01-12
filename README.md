@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhananjayKar
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning HTML, CSS AND JS
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kardhananjay9@gmail.com 
 - 😄 Pronouns: He
