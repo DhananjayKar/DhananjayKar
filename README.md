@@ -34,7 +34,7 @@ I'm a MERN stack developer with a passion for clean UI, smooth user experiences,
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhananjayKar&show_icons=true&theme=github_dark&hide_title=true&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=DhananjayKar&theme=github-dark-blue&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhananjayKar&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
