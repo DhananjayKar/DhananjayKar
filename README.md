@@ -37,7 +37,7 @@ I'm a MERN stack developer with a passion for clean UI, smooth user experiences,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayKar&layout=compact&theme=github_dark&hide_border=true" width="75%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhananjayKar&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 ---
